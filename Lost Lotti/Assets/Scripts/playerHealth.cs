@@ -10,8 +10,11 @@ public class playerHealth : MonoBehaviour {
 
 	float currentHealth;
 
-	//HUD references
-	public Image healthSlider;
+    
+
+
+    //HUD references
+    public Image healthSlider;
 /*	public Image damageIndicator;
 	public Text rubyCount;
 	public CanvasGroup endGameCanvas;
@@ -44,6 +47,8 @@ public class playerHealth : MonoBehaviour {
     void Start () {
 		currentHealth = fullHealth;
 
+
+        
         //healthSlider.fillAmount = 0f;
         controlMovement = GetComponent<playerControllerScript> ();
         limbCount = 0;

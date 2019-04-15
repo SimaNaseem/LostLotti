@@ -8,11 +8,17 @@ public class enemyDamage : MonoBehaviour {
 	public float pushBackForce;
 
 	float nextDamage;
+    public static AudioClip ouchSound;
+    static AudioSource audioSrc;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 		nextDamage = Time.time;
-	}
+
+        ouchSound = Resources.Load<AudioClip>("ouch");
+
+        audioSrc = GetComponent<AudioSource>();
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -22,7 +28,9 @@ public class enemyDamage : MonoBehaviour {
 	void OnTriggerStay2D(Collider2D other) {
 
 		if (other.tag=="Player"&&nextDamage < Time.time) {
-			playerHealth thePlayerHealth = other.gameObject.GetComponent<playerHealth> ();
+            audioSrc.PlayOneShot(ouchSound);
+
+            playerHealth thePlayerHealth = other.gameObject.GetComponent<playerHealth> ();
 			thePlayerHealth.addDamage (damage);
 			nextDamage=Time.time+damageRate;
 			//apply push back force on player
