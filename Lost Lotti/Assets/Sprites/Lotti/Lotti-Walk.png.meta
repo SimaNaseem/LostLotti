@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: f206766efce475d4bb13a47e35b0866b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lotti-Walk_0
+    21300002: Lotti-Walk_1
+    21300004: Lotti-Walk_2
+    21300006: Lotti-Walk_3
+    21300008: Lotti-Walk_4
+    21300010: Lotti-Walk_5
+    21300012: Lotti-Walk_6
+    21300014: Lotti-Walk_7
+    21300016: Lotti-Walk_8
+    21300018: Lotti-Walk_9
+    21300020: Lotti-Walk_10
+    21300022: Lotti-Walk_11
+    21300024: Lotti-Walk_12
+    21300026: Lotti-Walk_13
+    21300028: Lotti-Walk_14
+    21300030: Lotti-Walk_15
+    21300032: Lotti-Walk_16
+    21300034: Lotti-Walk_17
+    21300036: Lotti-Walk_18
+    21300038: Lotti-Walk_19
+    21300040: Lotti-Walk_20
+    21300042: Lotti-Walk_21
+    21300044: Lotti-Walk_22
+    21300046: Lotti-Walk_23
+    21300048: Lotti-Walk_24
+    21300050: Lotti-Walk_25
+    21300052: Lotti-Walk_26
+    21300054: Lotti-Walk_27
+    21300056: Lotti-Walk_28
+    21300058: Lotti-Walk_29
+    21300060: Lotti-Walk_30
+    21300062: Lotti-Walk_31
+    21300064: Lotti-Walk_32
+    21300066: Lotti-Walk_33
+    21300068: Lotti-Walk_34
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 640
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lotti-Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6958
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad089ce043297b34484a60231b7babf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_1
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 6958
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca080a81af7d224e899bc44193a5eed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 6958
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e29d122577e52f4fb360f3db7db4214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_3
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 6958
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8942648e6942d498435034ab346632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_4
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 6958
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e2c06642e47de44a6b66ee75eb9d14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_5
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 6958
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc48cda3c135d744aadef713c92586f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_6
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 6958
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e7cb244938fae4299d7bce9817dc61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_7
+      rect:
+        serializedVersion: 2
+        x: 6244
+        y: 6958
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e466c5a60d3fedc44b58156683834c31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_8
+      rect:
+        serializedVersion: 2
+        x: 7136
+        y: 6958
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad76cf1ba7bc44da0da2dda73ebd11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5724
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a2a85a7a5cfa4f9c8bebbb40e2d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_10
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 5724
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1913b1c300025940ad556e6101779c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_11
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 5724
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef48015281700f4eb136ea08949421d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_12
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 5724
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2128da74c9faa46979a5a8a7cb04da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_13
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 5724
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb9f260fbc533e4c8f951e14ee17812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_14
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 5724
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c626d88c257f2439955f104d0d2994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_15
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 5724
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446553d02f977cd43bff4e8041727b3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_16
+      rect:
+        serializedVersion: 2
+        x: 6244
+        y: 5724
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae065d8f09acc947912421ccbc1e3f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_17
+      rect:
+        serializedVersion: 2
+        x: 7136
+        y: 5724
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed7351887663074891c227be8a936f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4490
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e75eda830bbeb498c57362ca2f3691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_19
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 4490
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04406e7683af2840b0f6f35c734bff1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_20
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 4490
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3ec14908493394ea08ee922ab89a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_21
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 4490
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17297ca67b75e654e90324151610ebfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_22
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 4490
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b17b498f45ca9947bae7bd59d8b6af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_23
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 4490
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa09119282bb44094a0c950d7139df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_24
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 4490
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40e093a1003ce3428bc3cc789e0980d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_25
+      rect:
+        serializedVersion: 2
+        x: 6244
+        y: 4490
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62ad2c0b81df944590e63c624dc3ddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_26
+      rect:
+        serializedVersion: 2
+        x: 7136
+        y: 4490
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d56dea91fe10eb4a88937403358636e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3256
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488ef38651641c848a33a0bd11589c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_28
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 3256
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dcc70b31653a04a9b650bdfef6c666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_29
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 3256
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dad592e46af5040a7e87b9d92f67a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_30
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 3256
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d465a667d939244aa9fe8fcd97cecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_31
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 3256
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e178f5a179fa964ca4629a44d4e5edc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_32
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 3256
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0571794653cd4abf19a6312b67549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Walk_33
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 3256
+        width: 892
+        height: 1234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d75dd391a455da40a98190629211b4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7f2eaab58f0aaee48994f37e4cbfac27
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

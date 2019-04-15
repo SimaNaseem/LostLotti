@@ -1,0 +1,1202 @@
+fileFormatVersion: 2
+guid: 4243dbbc7f9bdc346954440f00b60919
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lotti-Idle_0
+    21300002: Lotti-Idle_1
+    21300004: Lotti-Idle_2
+    21300006: Lotti-Idle_3
+    21300008: Lotti-Idle_4
+    21300010: Lotti-Idle_5
+    21300012: Lotti-Idle_6
+    21300014: Lotti-Idle_7
+    21300016: Lotti-Idle_8
+    21300018: Lotti-Idle_9
+    21300020: Lotti-Idle_10
+    21300022: Lotti-Idle_11
+    21300024: Lotti-Idle_12
+    21300026: Lotti-Idle_13
+    21300028: Lotti-Idle_14
+    21300030: Lotti-Idle_15
+    21300032: Lotti-Idle_16
+    21300034: Lotti-Idle_17
+    21300036: Lotti-Idle_18
+    21300038: Lotti-Idle_19
+    21300040: Lotti-Idle_20
+    21300042: Lotti-Idle_21
+    21300044: Lotti-Idle_22
+    21300046: Lotti-Idle_23
+    21300048: Lotti-Idle_24
+    21300050: Lotti-Idle_25
+    21300052: Lotti-Idle_26
+    21300054: Lotti-Idle_27
+    21300056: Lotti-Idle_28
+    21300058: Lotti-Idle_29
+    21300060: Lotti-Idle_30
+    21300062: Lotti-Idle_31
+    21300064: Lotti-Idle_32
+    21300066: Lotti-Idle_33
+    21300068: Lotti-Idle_34
+    21300070: Lotti-Idle_35
+    21300072: Lotti-Idle_36
+    21300074: Lotti-Idle_37
+    21300076: Lotti-Idle_38
+    21300078: Lotti-Idle_39
+    21300080: Lotti-Idle_40
+    21300082: Lotti-Idle_41
+    21300084: Lotti-Idle_42
+    21300086: Lotti-Idle_43
+    21300088: Lotti-Idle_44
+    21300090: Lotti-Idle_45
+    21300092: Lotti-Idle_46
+    21300094: Lotti-Idle_47
+    21300096: Lotti-Idle_48
+    21300098: Lotti-Idle_49
+    21300100: Lotti-Idle_50
+    21300102: Lotti-Idle_51
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 640
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lotti-Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6892
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f80b698d310efb438a70b9c2ea67c41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 6892
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eb1139e6223f84e94e889f18ece742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 6892
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c42ba03062b54fbf0dea2d23ba4fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 6892
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e0f146e3cea1842b0e3872ec3a4417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 6892
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4a1e6f195e67d41994f424bfd19766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 6892
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c90a0f94b13ceb47a58e1e86c5ae152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 5346
+        y: 6892
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7495e1dbb8f31f643b6264188a840af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 6237
+        y: 6892
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8349bdcb62b9874db3b73986cb3943b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_8
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 6892
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bef75eb8f320f4eb72ae6674bca1c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5592
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365dc1567b14b894c9038f82b49787ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_10
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 5592
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6826ae6f6d29846a6bd4e3ebb763ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 5592
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47de353e7719284f8c9951df8061333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_12
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 5592
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d428561f9945cca41b9c74934328f15e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_13
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 5592
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd03967c81dcc448ae70b4d1fa607ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_14
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 5592
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e6fd8bd81eb5e468c2d46b3e2e7e35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_15
+      rect:
+        serializedVersion: 2
+        x: 5346
+        y: 5592
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509851c478b0725479591966afe17e9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_16
+      rect:
+        serializedVersion: 2
+        x: 6237
+        y: 5592
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e81521573a18f74dbc5d74aec5158ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_17
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 5592
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0776b0337f50b5841bf6b62bd5671e6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4292
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9428f51b6b7981b47bddc04cb5ae777b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_19
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 4292
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d386df0187e832428c5536f047bc79b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 4292
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09820b079ae1e24f9344b1d11b5bacb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 4292
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb77837e9b8e69743bb377b679c8a432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_22
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 4292
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93eec792a125404689966698cf296f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_23
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 4292
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ffd3938acde9644ad3ef17eac3a0ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_24
+      rect:
+        serializedVersion: 2
+        x: 5346
+        y: 4292
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50bdd52bd6f7a24ea96585343b8c58f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_25
+      rect:
+        serializedVersion: 2
+        x: 6237
+        y: 4292
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f1c614852f6644698a87e341673277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_26
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 4292
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afae39e6f2cad44396eae162b18c8fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2992
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dc767ea7da51b4f980c2025a098df5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_28
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2992
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6841590549f02a8498796f7b5c41f141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 2992
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321049b937e8f754a9762c24687fc251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_30
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 2992
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe395d1dbbe01f64fad06a2b55aefd53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_31
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 2992
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b73c58589be514aa0a9d8ad3731307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_32
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 2992
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95b0b97489c4a14b8f7c52c2e3f09ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_33
+      rect:
+        serializedVersion: 2
+        x: 5346
+        y: 2992
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80aaef7414df9547adfa7ae0498d438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_34
+      rect:
+        serializedVersion: 2
+        x: 6237
+        y: 2992
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c552374496dca804b9fdfecf656821a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_35
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 2992
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712b6115cb79f5b43947f7aa7e535e40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2e25a9bcbd54f468ca0ecd894d999a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_37
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1692
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3528b4148f465489da287e7422b668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1692
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b97990a3b1b6b49831ee9e061f7e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_39
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 1692
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe8e9b7798f2e429b61f5dc5f1218c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_40
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1692
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835cc4232e5fb6b47a5156101bc0dd22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_41
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 1692
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b5a13ec79c7b142a2ec0c9ed31bd6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_42
+      rect:
+        serializedVersion: 2
+        x: 5346
+        y: 1692
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac20806596b1b442b6909a4a0b60280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_43
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 1692
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3476fb2cf9ed29e469736b1929002224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb392ebb48e59874db1a546484505898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_45
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 392
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecb7ae281b1e0f44bd3bb8d850700a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_46
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 392
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57127cc8cf9f3440a788b12ea458d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_47
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 392
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2356536fbb51dd4baecd1628c7185e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_48
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 392
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c94378e5437d7498d45d073b2bb51c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_49
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 392
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9feced0bc574041aa754c0d7bc14d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_50
+      rect:
+        serializedVersion: 2
+        x: 5346
+        y: 392
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a30815c9268cb41a2088f98900e6da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Idle_51
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 392
+        width: 891
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eea5d48820a8d409f266f3525c6a8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7cfcd3c9ff914c04096cf946d0432a68
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

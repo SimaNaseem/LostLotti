@@ -1,0 +1,698 @@
+fileFormatVersion: 2
+guid: 586ae4cd03b3b98469e99e80ed262741
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lotti-Jump_0
+    21300002: Lotti-Jump_1
+    21300004: Lotti-Jump_2
+    21300006: Lotti-Jump_3
+    21300008: Lotti-Jump_4
+    21300010: Lotti-Jump_5
+    21300012: Lotti-Jump_6
+    21300014: Lotti-Jump_7
+    21300016: Lotti-Jump_8
+    21300018: Lotti-Jump_9
+    21300020: Lotti-Jump_10
+    21300022: Lotti-Jump_11
+    21300024: Lotti-Jump_12
+    21300026: Lotti-Jump_13
+    21300028: Lotti-Jump_14
+    21300030: Lotti-Jump_15
+    21300032: Lotti-Jump_16
+    21300034: Lotti-Jump_17
+    21300036: Lotti-Jump_18
+    21300038: Lotti-Jump_19
+    21300040: Lotti-Jump_20
+    21300042: Lotti-Jump_21
+    21300044: Lotti-Jump_22
+    21300046: Lotti-Jump_23
+    21300048: Lotti-Jump_24
+    21300050: Lotti-Jump_25
+    21300052: Lotti-Jump_26
+    21300054: Lotti-Jump_27
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 640
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lotti-Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6454
+        width: 1025
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb291765c61a64b8574a74a88147d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_1
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 6454
+        width: 1025
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd9966ed074654f9e0ff8961ed2877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_2
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 6454
+        width: 1025
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f76de8ed45918b4387237484fceca67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_3
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 6454
+        width: 1025
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed75b937625c3043a6194b28f477ba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_4
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 6454
+        width: 1025
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daa6ee62dd7cab4581122558236b983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_5
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 6454
+        width: 1025
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5574653490ea545ad5ac9e4e5eee79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_6
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 6454
+        width: 1025
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98347f211c00f6242b7a7cbac5f965d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4591
+        width: 1025
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90723c42df4e76d42b16812ed1ac5c7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_8
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 4591
+        width: 1025
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea88d5ea7d82de45acdac6a7bf2e8eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_9
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 4522
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bbaae403fb46749bedabacb1031cf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_10
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 4522
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc49ea0e808d8024e8b7a2a3a10d8782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_11
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 4522
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd0a8163e50bee43beca81280ba90b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_12
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 4522
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f0a2f832b998f4293e10a5e4503c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_13
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 4522
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bd6a1026e93b14ba816a3f4efe1141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2652
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5f8e500843f4a4fa747f940d85ae1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_15
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 2652
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d701e0a06b9211443b20eef5c4665295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_16
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 2652
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3c1cff9d5587488a4746d5fff78ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_17
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 2652
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fcadda5c521df4596f93dadeafb15b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_18
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 2652
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda97abc2d84def498452a85e15aa7ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_19
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 2652
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe598e534046b7c4db9a7ef452597ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_20
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 2652
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebe0ffb936c61e489ea5338146df1ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c3f0ef068cd2541bd2fa52c5199b5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_22
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 782
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a4e7e91e08d47428d643d95e063c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_23
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 782
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02796b4990613dc4cab1154df96430f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_24
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 782
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b555cc7a442d2ef408ae0e0d6c25d14a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_25
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 782
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6adfdb34538f04a90dcbadc0f2c929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_26
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 782
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa784a95fd0d1aa4eba136bdd2802b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotti-Jump_27
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 782
+        width: 1025
+        height: 1800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aacecba01c96b14a94fe66680aea190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 910a0f0c692e63246b24c63e9c52a87f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Act 1.unity
+    guid: 22423abf1083ed440aeff61268bc6b67
+  - enabled: 0
+    path: Assets/Scenes/Deep Sea.unity
+    guid: 11880c2684a56f842a221cf598301af5
+  - enabled: 0
+    path: Assets/Scenes/Note.unity
+    guid: 6961936cb0bfa5a428ba9c3da817b8b8
+  - enabled: 0
+    path: Assets/Scenes/Act 3.unity
+    guid: 3ae620f118b7b5a449cacb3dbf27d57b
+  - enabled: 1
+    path: Assets/Scenes/Mystery.unity
+    guid: cd4960d24e376554296710c57e2c1d4d
+  m_configObjects: {}
